@@ -1,2 +1,3 @@
-# open-marketplace-5bn8
-Automated issue comment bot repository
+# Open Marketplace 5Bn8
+
+Automated issue comment bot repository.
